@@ -7,14 +7,15 @@ Related paper: [Gal et al., [Dropout as a bayesian estimation: representing mode
 
 ## Analysis tasks
 
- - Image preprocessing
-   - Generate small image tiles from larger acquisitions
-   - Split dataset into training, validation and test sets, using stratification strategy at acquisition level
- - Image analysis
-   - Neural network training
-   - Neural network inference (direct)
-   - Neural network inference with gradCAM visualization
-   - Neural network inference with uncertainty assessment
+### Image preprocessing
+  - Generate small image tiles from larger acquisitions
+  - Split dataset into training, validation and test sets, using stratification strategy at acquisition level
+
+### Image analysis
+  - Neural network training
+  - Neural network inference (direct)
+  - Neural network inference with gradCAM visualization
+  - Neural network inference with uncertainty assessment
 
 ## Notes
 
