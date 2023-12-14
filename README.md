@@ -2,7 +2,7 @@
 
 Image classification tasks via CNN models, leveraging Monte Carlo dropout during inference to assess model uncertainty
 
-Related paper: [Gal et al., Dropout as a bayesian estimation: representing model uncertainty in deep learning, ICML 2016](http://proceedings.mlr.press/v48/gal16.pdf)
+Related paper: [Gal et al., [Dropout as a bayesian estimation: representing model uncertainty in deep learning](http://proceedings.mlr.press/v48/gal16.pdf), ICML 2016
 
 
 ## Analysis tasks
